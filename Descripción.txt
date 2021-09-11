@@ -1,3 +1,3 @@
-La función del programa es  preguntar a la persona por la cantidad de billetes y monedas de cada valor que tiene la persona en su bolsillo y luego determinará la suma de dinero que hay en monedas y luego la suma de dinero que hay en billetes. Luego el programa dirá la suma total de dinero que hay. y por ultimó dará al usuario la posibilidad de transformar la cantidad en dólares a la cantidad equivalente en pesos argentinos , pesos colombianos o euros, según lo decida el usuario.*/
+la funcion de este programa es poner numero y darlo en letras
 
 
