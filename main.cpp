@@ -1,4 +1,4 @@
-//Codificado por: sAfOrAs
+
 //Convierte a números romanos
 #include<iostream>
 using namespace std;
