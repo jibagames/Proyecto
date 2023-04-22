@@ -1,0 +1,15 @@
+
+package tienda2;
+
+public class TV extends Producto {
+    private int pulgadas;
+
+    public TV(String name, int price, int pulgadas) {
+        super(name, price);
+        this.pulgadas = pulgadas;
+    }
+
+    public int getScreenSize() {
+        return pulgadas;
+    }
+}
