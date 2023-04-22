@@ -1,0 +1,16 @@
+
+
+package tienda2;
+
+public class Smartphone extends Producto {
+    private String sistemaoperativo;
+
+    public Smartphone(String name, int price, String sistemaoperativo) {
+        super(name, price);
+        this.sistemaoperativo = sistemaoperativo;
+    }
+
+    public String getOperatingSystem() {
+        return sistemaoperativo;
+    }
+}
