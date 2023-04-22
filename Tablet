@@ -1,0 +1,15 @@
+
+package tienda2;
+
+public class Tablet extends Producto {
+    private String display;
+
+    public Tablet(String name, int price, String display) {
+        super(name, price);
+        this.display = display;
+    }
+
+    public String getDisplaySize() {
+        return display;
+    }
+}
