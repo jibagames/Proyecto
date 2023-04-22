@@ -1,0 +1,15 @@
+
+package tienda2;
+
+public class Laptop extends Producto {
+    private String procesador;
+
+    public Laptop(String name, int price, String procesador) {
+        super(name, price);
+        this.procesador = procesador;
+    }
+
+    public String getProcessor() {
+        return procesador;
+    }
+}
